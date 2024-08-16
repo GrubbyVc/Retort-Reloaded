@@ -21,7 +21,7 @@ function initializePlugin(api) {
     return;
   }
 
-  api.decorateWidget("post-menu:before-extra-controls", (helper) => {
+  api.decorateWidget("post-contents:after-cooked", (helper) => {
     let currentUser = api.container.lookup("service:currentUser");
 
     if (currentUser) {
