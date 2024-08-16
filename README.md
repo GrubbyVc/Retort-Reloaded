@@ -1,5 +1,7 @@
 # Retort - A Reaction Plugin for Discourse
 
+Retort Reloaded just moves the retort-container above the post controls
+
 Retort allows you and your users to add slack-style reactions to your discourse posts.
 
 Check out a quick gif of it in action [here](http://recordit.co/7vHi2j74Rg.gif)!
